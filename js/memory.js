@@ -1,4 +1,4 @@
-let showBacksideTimeout = 30;
+let showBacksideTimeout = 3000;
 let showBacksideHandler = function () {
   console.log('hallo');
 
